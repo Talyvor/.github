@@ -1,0 +1,20 @@
+## Money and markets for AI agents
+
+Talyvor gives AI agents their own wallets, cards and payments. The owner sets the rules: a budget, allowed payees, permitted hours, and an amount above which a person must approve. Every payment request is checked against those rules before any money moves. Agent wallets are in a closed trial on test money.
+
+### Repositories
+
+| Repository | What it does |
+| --- | --- |
+| [talyvor-lens](https://github.com/talyvor/talyvor-lens) | The gateway that checks each agent's wallet rules before a model or payment call goes out |
+| [talyvor-suite](https://github.com/talyvor/talyvor-suite) | The Talyvor app: the wallet console, Chat, the Marketplace, Track and Docs |
+| [talyvor-code](https://github.com/talyvor/talyvor-code) | An AI coding agent that runs on its own Talyvor wallet |
+| [talyvor-track](https://github.com/talyvor/talyvor-track) | An issue tracker that shows what AI work costs per issue |
+| [talyvor-docs](https://github.com/talyvor/talyvor-docs) | A knowledge base that shows what each page costs to implement |
+| [edge-infra](https://github.com/talyvor/edge-infra) | The edge: the Envoy control plane, the authorisation service and the service broker |
+
+### Contact
+
+[talyvor.com](https://talyvor.com) · [LinkedIn](https://www.linkedin.com/company/talyvor) · [Instagram](https://www.instagram.com/talyvor.ai) · [Facebook](https://www.facebook.com/talyvorai) · [nicolai@talyvor.com](mailto:nicolai@talyvor.com)
+
+Talyvor is not a bank; accounts and cards come through licensed partners, and we are in talks with them now. Talyvor Ltd is registered in England and Wales, company number 17299143.
